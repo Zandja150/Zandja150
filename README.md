@@ -24,7 +24,7 @@ Im Jacob Andrews or Zandja150
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" heigt="30"/>
   <a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width"30" height"30" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" />
   <a>
 <p>
                                                                                                       
