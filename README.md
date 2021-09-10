@@ -11,19 +11,18 @@ Im Jacob Andrews or Zandja150
 - 🤔I am not curently working on any projects.
 - 📱You can contact me on [Discord](https://discord.com/users/565916300778536960)(Zandja150#1637)
 
+## 💽 **Things Im fimilier with.**
+
+### 📚 **Languages** 
+
+
+<p>
+  <a href="https://devicon.dev/">
+    <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <a>
+<p>
+                                                                                                      
+                                                                                                    
 
 
 
-<!--
-**Zandja150/Zandja150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a ✨ Secret Project ✨
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://discord.com/users/565916300778536960
