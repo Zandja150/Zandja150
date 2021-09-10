@@ -1,10 +1,16 @@
 ### 👋 Hey
 
-Im Jacob Andrews or Zandja150
+Im Jacob Andrews or Zandj
 
-<p>
-  <a href="https://www.google.com/search?q=forthebadge&rlz=1CAUBRP_enUS965US965&oq=forthebadge&aqs=chrome..69i57.2174j0j7&sourceid=chrome&ie=UTF-8">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fyoutube-logo-png&psig=AOvVaw0XFVflxLPPPJHoUMJ0Ht3d&ust=1631298604954000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjUkZzE8vICFQAAAAAdAAAAABAD" width="30" height="30">
+## 🧑‍💻 **Information About Me**
+
+🪰I Have been flying fpv drone for 2 years.
+📖I curently learning rust.
+🤔I am not curently working on any projects.
+📱You can contact me on [discord](https://discord.com/users/565916300778536960)(Zandja150#1637)
+
+
+
 
 <!--
 **Zandja150/Zandja150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://discord.com/users/565916300778536960
